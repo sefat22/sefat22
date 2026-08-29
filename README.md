@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sefat Monzor 👋</h1>
 
 <p align="center">
-  <em>IT Support | Technical Career Transition | Client-Facing Tech Professional</em>
+  <em> Entry Level CyberSecurity Professional | Client-Facing Tech Professional</em>
 </p>
 
 ---
